@@ -23,5 +23,5 @@ After installing the esp32 package, the examples for WEMOS D1 MINI ESP32 are inc
 
 # Setting the ESP32 in AP-STA Mode
 
-The program is uploaded under the name "ESP32-Test1". 
+The program is uploaded under the name "ESP32-Test1" to be tested during the SYNC mission. 
 
