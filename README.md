@@ -21,7 +21,7 @@ Then from the “Boards Manager” the package “esp32” is installed as it is
 
 After installing the esp32 package, the examples for WEMOS D1 MINI ESP32 are included. However, through this project we will use the “WiFiAccessPoint” example from “WiFi” list and the “BasicHttpsClient” from the “HTTPClient” list.
 
-# Setting the ESP32 in AP-STA Mode
+# Setting the ESP32 in AP-STA Mode (The Code will be Updated)
 
 The program is uploaded under the name "ESP32-Test1" to be tested during the SYNC mission. 
 
